@@ -12,9 +12,11 @@ and the auxiliary functions are available under `./utils`.
 
 ## OCAP on CIFAR
 `MobileNetV2_Cifar_Pruning.py`
+
 `ResNet_Cifar_Pruning.py`
+
 `Vgg_Cifar_Pruning.py`
 
 
 ## OCAP on ImageNet
-'Vgg_ImageNet_Pruning.py'
+`Vgg_ImageNet_Pruning.py`
