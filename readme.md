@@ -1,4 +1,4 @@
-# OCAP: Personalize Edge DNN models Via On-Device Class-Aware Pruning
+# OCAP: On-device Class-Aware Pruning for personalized edge DNN models
 This repository contains the code for OCAP.
 
 OCAP proposes a new class-aware pruning method based on the 
